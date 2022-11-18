@@ -29,8 +29,12 @@ initGlobe();
 onWindowResize();
 animate();
 
+
+
 // SECTION Initializing core ThreeJS elements
 function init() {
+
+  const canvas = document.querySelector('#c')
   // Initialize renderer
   renderer = new WebGLRenderer({ antialias: true });
   renderer.setPixelRatio(window.devicePixelRatio);
