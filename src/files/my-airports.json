@@ -2,20 +2,20 @@
     "type": "AirportsCollection",
     "airports": [
         {
-            "text": "FRU",
+            "text": "TAS",
             "size": 1.0,
-            "country": "Kyrgyzstan",
-            "city": "Bishkek",
-            "lat": "42.85",
-            "lng": "74.583333333"
+            "country": "Uzbekistan",
+            "city": "Miami",
+            "lat": "25.761681",
+            "lng": "-80.191788"
         },
         {
             "text": "TAS",
             "size": 1.0,
             "country": "Uzbekistan",
-            "city": "Tashkent",
-            "lat": "41.266666666667",
-            "lng": "69.366666666667"
+            "city": "Miami",
+            "lat": "25.761681",
+            "lng": "-80.191788"
         },
         {
             "text": "ALA",
